@@ -19,7 +19,7 @@ const Hero = () => {
             I'm Srivarsha Bachu.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            Motivated student seeking opportunities 
+            Student seeking opportunities 
             <br />
             to apply academic knowledge and
             <br />
