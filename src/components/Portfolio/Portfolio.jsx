@@ -26,10 +26,10 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="../../../public/expensetracker.jpeg" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./expensetracker.jpeg" alt="project" />
           <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" />
-          <motion.img variants={fadeIn("up", "tween", .9, .6)} src="../../../public/bloodlink.png" alt="project" />
-          <motion.img variants={fadeIn("up", "tween", .9, .6)} src="../../../public/Screenshot 2024-02-17 at 7.52.40 AM.png" alt="project" />
+          <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./public/bloodlink.png" alt="project" />
+          <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./public/Screenshot 2024-02-17 at 7.52.40 AM.png" alt="project" />
         </div>
       </div>
     </motion.section>
