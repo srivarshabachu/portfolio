@@ -18,8 +18,8 @@ const Hero = () => {
             <br />
             I'm Srivarsha Bachu.
           </motion.span>
-          <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            Student seeking opportunities 
+          <motion.span className="secondaryText" variants={fadeIn("left", "tween", 0.4, 1)}>
+            Student seeking opportunities
             <br />
             to apply academic knowledge and
             <br />
@@ -48,7 +48,7 @@ const Hero = () => {
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            
+
             <span></span>
             <span></span>
           </motion.div>
